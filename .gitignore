@@ -1,0 +1,15 @@
+# Environment & Secrets (CRITICAL - keeps API keys private)
+.env
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Vector Database & Generated Data (large/reproducible files)
+vectorstore/
+data/processed/
+
+# OS & Editor files
+.DS_Store
+.vscode/

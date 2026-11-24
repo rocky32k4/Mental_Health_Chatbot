@@ -1,0 +1,16 @@
+# PDF Processing
+pdfplumber
+
+# Vector Store
+chromadb
+
+# Embeddings + LLM
+sentence-transformers 
+
+# Environment variables
+python-dotenv
+
+# Frontend (later)
+streamlit
+
+groq
